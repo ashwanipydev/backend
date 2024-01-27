@@ -14,6 +14,11 @@ const jokes = [
         id: 2,
         title: "joke 2",
         content: "this is joke"
+    },
+    {
+        id: 3,
+        title: "joke 3",
+        content: "this is joke"
     }
 ]
 
